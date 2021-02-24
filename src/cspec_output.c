@@ -8,6 +8,7 @@
 
 #include "cspec.h"
 #include <memory.h>
+#include <string.h>
 
 void CSpec_InitOutput( CSpecOutputStruct* output )
 {
